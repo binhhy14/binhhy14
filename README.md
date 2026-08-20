@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dinh Bao Binh Tran 👋
 
-<!--
-**binhhy14/binhhy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at the University of Illinois Chicago (UIC) passionate about building end-to-end machine learning pipelines, predictive modeling, and real-time model deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** B.S. in Data Science at University of Illinois Chicago
+- 🛠️ **Focus Areas:** Feature Engineering, Ensemble Learning (XGBoost, LightGBM, CatBoost), and API Serving (Flask)
+- 📍 **Location:** Chicago, IL
+- 📫 **Contact:** [dtran49@uic.edu](mailto:dtran49@uic.edu)
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** Python, SQL, C++, R
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deployment & Web UI:** Flask, HTML, CSS, JavaScript
+- **Tools & Workflow:** Git, GitHub, VS Code, Kaggle, LaTeX
+
+---
+
+### 🔗 Connect with Me
+- **LinkedIn:** [Dinh Bao Binh Tran](https://www.linkedin.com/in/dinhbaobinhtran/)
